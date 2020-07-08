@@ -22,7 +22,7 @@
     "i18next-express-middleware": "^1.0.5",
     "i18next-node-fs-backend": "^1.0.0",
     "juice": "^4.1.0",
-    "knex": "^0.13.0",
+    "knex": "^0.19.5",
     "node-fetch": "^1.7.1",
     "nodemailer": "^4.0.1",
     "passport": "^0.3.2",
