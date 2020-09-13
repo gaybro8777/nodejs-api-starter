@@ -23,7 +23,7 @@
     "i18next-node-fs-backend": "^1.0.0",
     "juice": "^4.1.0",
     "knex": "^0.13.0",
-    "node-fetch": "^1.7.1",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^4.0.1",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
