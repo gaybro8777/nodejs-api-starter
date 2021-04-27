@@ -31,7 +31,7 @@
     "passport-twitter": "^1.0.4",
     "pg": "^7.1.0",
     "pretty-error": "^2.1.1",
-    "redis": "^2.7.1",
+    "redis": "^3.1.1",
     "source-map-support": "^0.4.15",
     "validator": "^8.0.0"
   },
